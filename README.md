@@ -1,10 +1,32 @@
 # LLMs4LegalAI
 This is a repository of LLMs in Legal Artificial Intelligence. We will regularly update the papers related to LLMs for Legal AI, including datasets, legal LLMs, LLM-based frameworks and so on.
 ## Datasets
-1. CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction [paper](https://arxiv.org/abs/1807.02478)
-2. A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction [paper](https://papers.neurips.cc/paper_files/paper/2022/file/d15abd14d5894eebd185b756541d420e-Paper-Datasets_and_Benchmarks.pdf)
-3. 
-## Approaches
+1. Position-aware Attention and Supervised Data Improve Slot Filling [paper](https://aclanthology.org/D17-1004/)
+2. CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction [paper](https://arxiv.org/abs/1807.02478)
+3. CrimeKgAssitant [github](https://github.com/liuhuanyong/CrimeKgAssitant)
+4. JEC-QA: A Legal-Domain Question Answering Dataset [paper](https://ojs.aaai.org/index.php/AAAI/article/view/6519)
+5. Joint Entity and Relation Extraction for Legal Documents with Legal Feature Enhancement [paper](https://aclanthology.org/2020.coling-main.137/)
+6. Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [paper](https://aclanthology.org/2021.naacl-main.278/)
+7. Re-TACRED: Addressing Shortcomings of the TACRED Dataset [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17631)
+8. LexGLUE: A Benchmark Dataset for Legal Language Understanding in English [paper](https://aclanthology.org/2022.acl-long.297/)
+9. LEVEN: A Large-Scale Chinese Legal Event Detection Dataset [paper](https://aclanthology.org/2022.findings-acl.17/)
+10. DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services [paper](https://arxiv.org/abs/2309.11325)
+11. LEEC: A Legal Element Extraction Dataset with an Extensive Domain-Specific Label System [paper](https://arxiv.org/abs/2310.01271)
+12. LawBench: Benchmarking Legal Knowledge of Large Language Models [paper](https://aclanthology.org/2024.emnlp-main.452/)
+13. LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/89e44582fd28ddfea1ea4dcb0ebbf4b0-Abstract-Datasets_and_Benchmarks.html)
+14. A Multi-Task Benchmark for Korean Legal Language Understanding and Judgement Prediction [paper](https://papers.neurips.cc/paper_files/paper/2022/file/d15abd14d5894eebd185b756541d420e-Paper-Datasets_and_Benchmarks.pdf)
+15. LAiW: A Chinese Legal Large Language Models Benchmark [paper](https://aclanthology.org/2025.coling-main.716/)
+16. AgentsCourt: Building Judicial Decision-Making Agents with Court Debate Simulation and Legal Knowledge Augmentation [paper](https://aclanthology.org/2024.findings-emnlp.549/)
+17. CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation [paper](http://arxiv.org/abs/2406.17186)
+18. One Law, Many Languages: Benchmarking Multilingual Legal Reasoning for Judicial Support [paper](http://arxiv.org/abs/2306.09237)
+19. LexSumm and LexT5: Benchmarking and Modeling Legal Summarization Tasks in English [paper](https://aclanthology.org/2024.nllp-1.35/)
+20. LeDQA: A Chinese Legal Case Document-based Question Answering Dataset [paper](https://dl.acm.org/doi/10.1145/3627673.3679154)
+21. LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/2cb40fc022ca7bdc1a9a78b793661284-Paper-Datasets_and_Benchmarks_Track.pdf)
+22. NYAYAANUMANA and INLEGALLLAMA: The Largest Indian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis [paper](https://aclanthology.org/2025.coling-main.738/)
+23. CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions [paper](http://arxiv.org/abs/2501.00097)
+24. CAIL Competition [website](http://cail.cipsc.org.cn/index.html)
+25. LAIC Competition [website](https://laic.cjbdi.com/)
+## Methods
 ### legal LLMs
 1. LawGPT_zh [github](https://github.com/LiuHC0428/LAW-GPT)
 2. DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services [paper](https://arxiv.org/abs/2309.11325)
