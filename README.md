@@ -31,6 +31,7 @@ This is a repository of LLMs in Legal Artificial Intelligence. We will regularly
 28. CaseSumm: A Large-Scale Dataset for Long-Context Summarization from U.S. Supreme Court Opinions [paper](http://arxiv.org/abs/2501.00097)
 29. CAIL Competition [website](http://cail.cipsc.org.cn/index.html)
 30. LAIC Competition [website](https://laic.cjbdi.com/)
+31. KBL [paper](https://aclanthology.org/2024.findings-emnlp.319/)
 ## Methods
 ### legal LLMs
 1. LawGPT_zh [github](https://github.com/LiuHC0428/LAW-GPT)
