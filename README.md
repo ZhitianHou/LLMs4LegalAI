@@ -1,6 +1,13 @@
 # LLMs4LegalAI
-This is a repository of LLMs in Legal Artificial Intelligence. We will regularly update the papers related to LLMs for Legal AI, including datasets, legal LLMs, LLM-based frameworks and so on.
+This is a repository of Large Language Models Meet Legal Artificial Intelligence: A Survey. The content covered in this survey is up to date as of January 2025.
+## Overview
+Here is the overview of our survey.
+![Overview](/images/Organization.png)
+
 ## Datasets
+We have collected a range of datasets and analysed the capabilities they covered. And we provide a list of our collected datasets below:
+![The capabilities assessed by benchmarks.](/images/Benchmark.png)
+
 1. CaseLaw [website](https://case.law/)
 2. Position-aware Attention and Supervised Data Improve Slot Filling [paper](https://aclanthology.org/D17-1004/)
 3. CAIL2018: A Large-Scale Legal Dataset for Judgment Prediction [paper](https://arxiv.org/abs/1807.02478)
@@ -34,7 +41,10 @@ This is a repository of LLMs in Legal Artificial Intelligence. We will regularly
 31. LAIC Competition [website](https://laic.cjbdi.com/)
 32. KBL, Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models [paper](https://aclanthology.org/2024.findings-emnlp.319/)
 ## Methods
-### legal LLMs
+### Legal LLMs
+We also investigated 16 series of Legal LLMs in different languages, listing the papers and visualizing their release dates and sizes in figure below:
+![The timeline of Legal LLMs, with only the largest model sizes plotted for visual clarity. • denotes that wecould not determine the logo of the LLMs.](/images/LLMs.png)
+
 1. LawGPT_zh [github](https://github.com/LiuHC0428/LAW-GPT)
 2. DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services [paper](https://arxiv.org/abs/2309.11325)
 3. Lawyer LLaMA Technical Report [paper](http://arxiv.org/abs/2305.15062)
@@ -52,7 +62,10 @@ This is a repository of LLMs in Legal Artificial Intelligence. We will regularly
 15. WisdomInterrogatory [github](https://github.com/zhihaiLLM/wisdomInterrogatory)
 16. Indian-LawGPT: A Large Language Model Based on Indian Legal Knowledge [github](https://github.com/jfontestad/Indian-LegalGPT)
 17. LexiLaw [github](https://github.com/CSHaitao/LexiLaw)
-### LLM-based frameworks
+### LLM-based Frameworks
+There are also several LLM-based frameworks in legal domain. We classify them based on different main legal tasks and list the papers:
+![The examples of 6 main legal tasks.](/images/legaltasks.png)
+
 1. A Framework for Enhancing Statute Law Retrieval Using Large Language Models [paper](https://dl.acm.org/doi/10.1007/978-981-97-3076-6_17)
 2. Employing Label Models on ChatGPT Answers Improves Legal Text Entailment Performance [paper](https://arxiv.org/abs/2401.17897)
 3. Boosting legal case retrieval by query content selection with large language models [paper](https://dl.acm.org/doi/10.1145/3624918.3625328)
