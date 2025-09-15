@@ -1,10 +1,10 @@
-# LLMs4LegalAI
-This is a repository of Large Language Models Meet Legal Artificial Intelligence: A Survey. The content covered in this survey is up to date as of January 2025.
-## Overview
+# ⚖️ LLMs4LegalAI
+This is a repository of [Large Language Models Meet Legal Artificial Intelligence: A Survey](https://arxiv.org/abs/2509.09969). The content covered in this survey is up to date as of January 2025.
+## 📚 Overview
 Here is the overview of our survey.
 ![Overview](/images/Organization.png)
 
-## Datasets
+## 📂 Datasets
 We have collected a range of datasets and analysed the capabilities they covered. And we provide a list of our collected datasets below:
 ![The capabilities assessed by benchmarks.](/images/Benchmark.png)
 
@@ -41,7 +41,7 @@ We have collected a range of datasets and analysed the capabilities they covered
 31. LAIC Competition [website](https://laic.cjbdi.com/)
 32. KBL, Developing a Pragmatic Benchmark for Assessing Korean Legal Language Understanding in Large Language Models [paper](https://aclanthology.org/2024.findings-emnlp.319/)
 ## Methods
-### Legal LLMs
+### 🤖 Legal LLMs
 We also investigated 16 series of Legal LLMs in different languages, listing the papers and visualizing their release dates and sizes in figure below:
 ![The timeline of Legal LLMs, with only the largest model sizes plotted for visual clarity. • denotes that wecould not determine the logo of the LLMs.](/images/LLMs.png)
 
@@ -62,7 +62,7 @@ We also investigated 16 series of Legal LLMs in different languages, listing the
 15. WisdomInterrogatory [github](https://github.com/zhihaiLLM/wisdomInterrogatory)
 16. Indian-LawGPT: A Large Language Model Based on Indian Legal Knowledge [github](https://github.com/jfontestad/Indian-LegalGPT)
 17. LexiLaw [github](https://github.com/CSHaitao/LexiLaw)
-### LLM-based Frameworks
+### 🧰 LLM-based Frameworks
 There are also several LLM-based frameworks in legal domain. We classify them based on different main legal tasks and list the papers:
 ![The examples of 6 main legal tasks.](/images/legaltasks.png)
 
@@ -113,3 +113,18 @@ There are also several LLM-based frameworks in legal domain. We classify them ba
 45. Garbage in, garbage out: Zero-shot detection of crime using Large Language Models [paper](https://arxiv.org/abs/2307.06844)
 46. Legal Information Retrieval and Entailment Using Transformer-based Approaches [paper](https://link.springer.com/article/10.1007/s12626-023-00153-z)
 47. Explicitly Integrating Judgment Prediction with Legal Document Retrieval: A Law-Guided Generative Approach [paper](https://dl.acm.org/doi/10.1145/3626772.3657717)
+
+
+## 📖 Citation
+If you find this project helpful, please consider citing our paper:
+```bibtet
+@misc{hou2025largelanguagemodelsmeet,
+      title={Large Language Models Meet Legal Artificial Intelligence: A Survey}, 
+      author={Zhitian Hou and Zihan Ye and Nanli Zeng and Tianyong Hao and Kun Zeng},
+      year={2025},
+      eprint={2509.09969},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.09969}, 
+}
+```
