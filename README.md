@@ -2,11 +2,16 @@
 This is a repository of [Large Language Models Meet Legal Artificial Intelligence: A Survey](https://arxiv.org/abs/2509.09969). The content covered in this survey is up to date as of January 2025.
 ## 📚 Overview
 Here is the overview of our survey.
-![Overview](/images/Organization.png)
+<p align="center">
+<img src="images/Organization.png" alt="Overview." style="width:70%;">
+</p>
 
 ## 📂 Datasets
 We have collected a range of datasets and analysed the capabilities they covered. And we provide a list of our collected datasets below:
-![The capabilities assessed by benchmarks.](/images/Benchmark.png)
+
+<p align="center">
+<img src="images/Benchmark.png" alt="The capabilities assessed by benchmarks." style="width:50%;">
+</p>
 
 1. CaseLaw [website](https://case.law/)
 2. Position-aware Attention and Supervised Data Improve Slot Filling [paper](https://aclanthology.org/D17-1004/)
@@ -43,7 +48,11 @@ We have collected a range of datasets and analysed the capabilities they covered
 ## Methods
 ### 🤖 Legal LLMs
 We also investigated 16 series of Legal LLMs in different languages, listing the papers and visualizing their release dates and sizes in figure below:
-![The timeline of Legal LLMs, with only the largest model sizes plotted for visual clarity. • denotes that wecould not determine the logo of the LLMs.](/images/LLMs.png)
+
+<p align="center">
+  <img src="images/LLMs.png" alt="The timeline of Legal LLMs, with only the largest model sizes plotted for visual clarity. • denotes that wecould not determine the logo of the LLMs." style="width:80%;">
+</p>
+
 
 1. LawGPT_zh [github](https://github.com/LiuHC0428/LAW-GPT)
 2. DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services [paper](https://arxiv.org/abs/2309.11325)
@@ -64,7 +73,9 @@ We also investigated 16 series of Legal LLMs in different languages, listing the
 17. LexiLaw [github](https://github.com/CSHaitao/LexiLaw)
 ### 🧰 LLM-based Frameworks
 There are also several LLM-based frameworks in legal domain. We classify them based on different main legal tasks and list the papers:
-![The examples of 6 main legal tasks.](/images/legaltasks.png)
+<p align="center">
+  <img src="images/legaltasks.png" alt="The examples of 6 main legal tasks." style="width:70%;">
+</p>
 
 1. A Framework for Enhancing Statute Law Retrieval Using Large Language Models [paper](https://dl.acm.org/doi/10.1007/978-981-97-3076-6_17)
 2. Employing Label Models on ChatGPT Answers Improves Legal Text Entailment Performance [paper](https://arxiv.org/abs/2401.17897)
