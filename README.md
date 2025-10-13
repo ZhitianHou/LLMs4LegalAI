@@ -128,7 +128,7 @@ There are also several LLM-based frameworks in legal domain. We classify them ba
 
 ## 📖 Citation
 If you find this project helpful, please consider citing our paper:
-```bibtet
+```bibtex
 @misc{hou2025largelanguagemodelsmeet,
       title={Large Language Models Meet Legal Artificial Intelligence: A Survey}, 
       author={Zhitian Hou and Zihan Ye and Nanli Zeng and Tianyong Hao and Kun Zeng},
